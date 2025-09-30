@@ -6,7 +6,6 @@ I love figuring out how things work and how to make them better. I pick things u
 
 I bring that mindset to every project so I can learn fast, build real features, and support the team where it counts.
 
-## Fun Fact
-- I drink cold brew, with a splash of almond milk, at least once a day.
+**Fun Fact**: I drink cold brew, with a splash of almond milk, at least once a day.
 
 
