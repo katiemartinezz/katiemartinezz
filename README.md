@@ -1,11 +1,8 @@
-# Hi there!
+# Hi, I’m Katie 👋  
+I build reliable, scalable backend and full-stack systems.
 
-I'm Katie, and I take every opportunity to learn. 
+I enjoy breaking down complex problems and understanding how systems behave end to end.
 
-I love figuring out how things work and how to make them better. I pick things up quickly and stick with tough problems until they’re solved.
+My work spans REST APIs, asynchronous job pipelines, authentication flows, and data-backed services. I’ve also worked on AI-powered applications, web crawling and graph analysis, and machine learning projects, with a focus on correctness, evaluation, and real-world trade-offs.
 
-I bring that mindset to every project so I can learn fast, build real features, and support the team where it counts.
-
-**Fun Fact**: I drink cold brew, with a splash of almond milk, at least once a day.
-
-
+I value clean, maintainable code, clear abstractions, and systems that behave predictably in production.
