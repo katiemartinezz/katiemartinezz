@@ -1,8 +1,7 @@
 # Hi, I’m Katie 👋  
-I build reliable, scalable backend and full-stack systems.
+I build backend systems and full-stack tools that connect real infrastructure and solve operational problems.
 
-I enjoy breaking down complex problems and understanding how systems behave end to end.
+My work spans REST APIs, webhook integrations, async job pipelines, database design, and AI-powered applications -with a focus on correctness, clear abstractions, and systems that behave predictably.
 
-My work spans REST APIs, asynchronous job pipelines, authentication flows, and data-backed services. I’ve also worked on AI-powered applications, web crawling and graph analysis, and machine learning projects, with a focus on correctness, evaluation, and real-world trade-offs.
-
-I value clean, maintainable code, clear abstractions, and systems that behave predictably in production.
+## What I'm working with
+TypeScript · Node.js · Express · PostgreSQL · React · Docker · Redis · Firebase · Python · TailwindCSS
